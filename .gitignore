@@ -1,0 +1,16 @@
+﻿# Local datasets
+finbert_canonical_v1.zip
+finbert_canonical_v1/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local configuration
+.env
+.env.*
